@@ -28,4 +28,4 @@ npm install node-telegram-bot-api
 node bot.js
 ```
 
-使用screen持续运行ck.py（监测可选）
+使用screen持续运行ck.py（监测可选24是1分钟监测一次，12和12g是连续区别自己看）
